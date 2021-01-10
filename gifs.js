@@ -312,8 +312,6 @@ module.exports = {
         "https://media1.tenor.com/images/bf24295387df694c66a92c5db256d0d2/tenor.gif",
         "https://media1.tenor.com/images/9ce3ee77bcf789df9bb5fc67414e0e57/tenor.gif",
         "https://media1.tenor.com/images/5e7ecf1d19af5c0c6c31a250583f2d50/tenor.gif",
-        
-
     ],
     kiss: [
 
