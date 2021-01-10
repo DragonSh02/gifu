@@ -277,7 +277,7 @@ module.exports = {
         "https://media1.tenor.com/images/4ee86c5471b564c93a36cf1f99c5dbb8/tenor.gif"
     ],
     hug: [
-        
+        "https://media1.tenor.com/images/977c0043ee29cdae790dc47507fcb91d/tenor.gif"
     ],
     kill: [
 
